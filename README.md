@@ -166,10 +166,9 @@ To run this project, you need to have **Java Development Kit (JDK) 17 or higher*
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/PersonalBudgetTracker.git](https://github.com/YOUR_USERNAME/PersonalBudgetTracker.git)
+    git clone [https://github.com/KRISSHNAJ/PersonalBudgetTracker.git](https://github.com/KRISSHNAJ/PersonalBudgetTracker.git)
     cd PersonalBudgetTracker
     ```
-    (Replace `YOUR_USERNAME` with your actual GitHub username)
 
 2.  **Compile the Java Code:**
     Open your terminal or command prompt, navigate to the `PersonalBudgetTracker/src` directory, and compile the Java file:
@@ -356,11 +355,10 @@ Go to GitHub, log in, and create a new public repository (e.g., PersonalBudgetTr
 Link Local to Remote Repository:
 Copy the commands provided by GitHub to link your local repository to the newly created remote repository. It will typically look like this:
 Bash
-git remote add origin https://github.com/YOUR_USERNAME/PersonalBudgetTracker.git
+git remote add origin https://github.com/KRISSHNAJ/PersonalBudgetTracker.git
 git branch -M main
 git push -u origin main
 
-(Replace YOUR_USERNAME with your actual GitHub username)
 Verify:
 Go to your GitHub repository page and refresh it. You should see all your project files uploaded.
 This comprehensive setup ensures a well-organized, high-quality project that is easy to understand, run, and maintain, showcasing best practices for core Java development.
